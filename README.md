@@ -6,10 +6,15 @@
 - 🔭 Estou atualmente procurando estágio como front-end...
 - 🌱 Estou estudando Html, Css e JavaScript ...
 
-<div align="center">
+<div style="display: flex; gap: 2px; align-items: center;" align="center" >
+
   <a href="https://github.com/DaniloGAguiar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaniloGAguiar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloGAguiar&layout=compact&langs_count=7&theme=dracula"/>
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=DaniloGAguiar&show_icons=true&include_all_commits=true&count_private=true&bg_color=0E091B&title_color=00b2ff&text_color=ffffff&icon_color=ff2cdf&border_radius=15&border_color=00b2ff&count_private=true"/>
+  </a>
+
+  <a href="https://github.com/DaniloGAguiar">
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloGAguiar&layout=compact&langs_count=7&bg_color=0E091B&title_color=00b2ff&text_color=ffffff&icon_color=ff2cdf&border_radius=15&border_color=00b2ff&count_private=true"/>
+  </a>
 </div>
   
   ## Habilidades Principais:
